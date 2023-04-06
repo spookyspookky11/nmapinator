@@ -4,6 +4,7 @@ Nmapinator is a bash script which takes a list of ip addresses, runs masscan on 
 Instructions for use:
 ```
 git clone https://github.com/spookyspookky11/nmapinator.git 
+cd nmapinator/
 chmod +x nmapinator.sh
 sudo ./nmapinator.sh 
 ```
